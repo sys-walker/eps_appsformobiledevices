@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Android Kotlin</string>
+    <string name="menu_settings">Settings</string>
+</resources>
