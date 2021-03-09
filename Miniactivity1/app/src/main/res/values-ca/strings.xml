@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniActivitat1</string>
+    <string name="greeting">Benvingut a Android</string>
+    <string name="hello_msg">Hola Mon!</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="button">Premeu aqui</string>
+    <string name="country_flag">Bandera de Catalunya</string>
+    <string name="country_president">Carles Puigdemont</string>
+
+</resources>

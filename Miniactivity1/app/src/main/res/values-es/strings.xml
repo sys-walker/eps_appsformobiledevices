@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_settings">Configuracion</string>
+    <string name="app_name">MiniActividad1</string>
+    <string name="greeting">Bienvenido a Android</string>
+    <string name="hello_msg">Hola Mundo!</string>
+    <string name="button">Pulse aquí</string>
+    <string name="country_flag">Bandera de España</string>
+    <string name="country_president">" "</string>
+</resources>

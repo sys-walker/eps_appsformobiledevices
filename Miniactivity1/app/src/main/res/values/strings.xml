@@ -1,0 +1,11 @@
+<resources>
+    <string name="menu_settings">Settings</string>
+    <string name="app_name">MiniActivity1</string>
+    <string name="greeting">Welcome to Android</string>
+    <string name="hello_msg">Hello World!</string>
+    <string name="button">Click here</string>
+    <string name="country_flag">US flag</string>
+    <string name="country_flag_2" translatable="false">UK flag</string>
+    <string name="generic_description" translatable="false">image</string>
+    <string name="country_president">" "</string>
+</resources>
