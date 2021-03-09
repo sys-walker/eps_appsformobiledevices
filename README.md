@@ -14,7 +14,7 @@ This is a subject taken at University of lleida
   
 ## Mini activities
 * [Hello World Kotlin](https://github.com/sys-walker/eps_appsformobiledevices/tree/main/HelloAndroidKotlin) 
-* [Min iActivitat 1](https://github.com/sys-walker/eps_appsformobiledevices/tree/miniactivitats/Miniactivity1)
+* [Mini Activitat 1](https://github.com/sys-walker/eps_appsformobiledevices/tree/miniactivitats/Miniactivity1)
 
 ## Tools and languages used
 
