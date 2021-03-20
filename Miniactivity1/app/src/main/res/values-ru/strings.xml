@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мини-активность1</string>
+    <string name="greeting">Добро пожаловать в Android</string>
+    <string name="hello_msg">Привет, мир!</string>
+    <string name="menu_settings">настройки</string>
+    <string name="button">"кликните сюда "</string>
+    <string name="country_flag">Флаг России</string>
+    <string name="country_president">" "</string>
+
+</resources>

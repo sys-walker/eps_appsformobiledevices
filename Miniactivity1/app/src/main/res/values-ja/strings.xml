@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniActivitat1</string>
+    <string name="greeting">アンドロイドへようこそ</string>
+    <string name="hello_msg">こんにちは世界!</string>
+    <string name="menu_settings">設定</string>
+    <string name="button">ここをクリック</string>
+    <string name="country_flag">日本の国旗</string>
+    <string name="country_president">Naruhito</string>
+
+</resources>
