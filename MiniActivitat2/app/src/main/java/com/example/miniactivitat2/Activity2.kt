@@ -1,6 +1,7 @@
 package com.example.miniactivitat2
 
-import android.R.attr.data
+import android.R.attr
+import android.R.id.message
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
@@ -19,7 +20,7 @@ class Activity2 : AppCompatActivity() {
         var text:String = intent.getStringExtra("text").toString()
         var rep:Int = intent.getIntExtra("rep", 1)
 
-        if(rep == 0){
+        if(rep != 0){
             textView.text = ""
         }
 
@@ -30,10 +31,13 @@ class Activity2 : AppCompatActivity() {
 
         button.setOnClickListener{
 
-            val intent = Intent(this, MainActivity::class.java)
-            intent.putExtra("title", textView.text.toString())
-            startActivity(intent)
+            var intent = Intent(this, MainActivity::class.java)
+            intent.putExtra("MESSAGE", textView.text.toString())
+            setResult(1, intent)
+            finish()
         }
 
     }
+
+
 }
