@@ -18,6 +18,7 @@
     <string name="Boton7">Marcar</string>
     <string name="Boton8">SMS</string>
     <string name="Boton9">E-mail</string>
+    <string name="Boton10">Acceder a galeria de imagenes</string>
     <string name="telef">666666666</string>
 
     <string name="lat">41.60788</string>
@@ -35,6 +36,7 @@
     <string name="opcion7">http://ww.udl.cat</string>
     <string name="opcion8">Marcando al Tlfn.</string>
     <string name="opcion9">Enviando SMS</string>
+    <string name="opcion10">Enviando E-mail</string>
 
 
 </resources>

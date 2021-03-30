@@ -177,7 +177,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     private fun sendEmail(){
-        Toast.makeText(this, getString(R.string.opcion9), Toast.LENGTH_LONG).show()
+        Toast.makeText(this, getString(R.string.opcion10), Toast.LENGTH_LONG).show()
+        intent = Intent(Intent.ACTION_SEND)
+        intent.data = Uri.parse("mailto:");
+        intent.type = "text/plain";
+        intent.putExtra(Intent.EXTRA_EMAIL, "abcde123@correu.com")
+        intent.putExtra(Intent.EXTRA_SUBJECT, "Pràctica de Kotlin")
+        intent.putExtra(Intent.EXTRA_TEXT, "La pràctica realitzada...")
+        startActivity(intent)
     }
 
 
