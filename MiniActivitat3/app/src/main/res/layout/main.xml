@@ -44,6 +44,13 @@
         android:layout_height="wrap_content"
         android:gravity="center" >
 
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:autoLink="web"
+            android:gravity="center"
+            android:text="@string/opcion7" />
+
         <Button
             android:id="@+id/button3"
             android:layout_width="wrap_content"
@@ -69,11 +76,17 @@
             android:text="@string/contactando" />
 
         <Button
+            android:id="@+id/button7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Boton7"/>
+
+        <Button
             android:id="@+id/button5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Boton5" />
-        
+
     </LinearLayout>
 
     <Button
@@ -81,5 +94,30 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/Boton6" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/enviar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Boton8" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Boton9" />
+
+    </LinearLayout>
 
 </LinearLayout>

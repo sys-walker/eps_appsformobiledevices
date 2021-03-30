@@ -28,18 +28,24 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         val btn4: Button = findViewById<Button>(R.id.button4)
         val btn5: Button = findViewById<Button>(R.id.button5)
         val btn6: Button = findViewById<Button>(R.id.button6)
+        val btn7: Button = findViewById<Button>(R.id.button7)
+        val btn8: Button = findViewById<Button>(R.id.button8)
+        val btn9: Button = findViewById<Button>(R.id.button9)
         btn1.setOnClickListener(this)
         btn2.setOnClickListener(this)
         btn3.setOnClickListener(this)
         btn4.setOnClickListener(this)
         btn5.setOnClickListener(this)
         btn6.setOnClickListener(this)
+        btn7.setOnClickListener(this)
+        btn8.setOnClickListener(this)
+        btn9.setOnClickListener(this)
         if (Build.VERSION.SDK_INT >= 23) if (!ckeckPermissions()) requestPermissions()
     }
 
 
     override fun onClick(v: View) {
-        val `in`: Intent
+        val intent: Intent
         val lat: String = getString(R.string.lat)
         val lon: String = getString(R.string.lon)
         val url: String = getString(R.string.url)
@@ -48,29 +54,32 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         when (v.id) {
             R.id.button1 -> {
                 Toast.makeText(this, getString(R.string.opcion1), Toast.LENGTH_LONG).show()
-                `in` = Intent(Intent.ACTION_VIEW, Uri.parse("geo:$lat,$lon"))
-                startActivity(`in`)
+                intent = Intent(Intent.ACTION_VIEW, Uri.parse("geo:$lat,$lon"))
+                startActivity(intent)
             }
             R.id.button2 -> {
                 Toast.makeText(this, getString(R.string.opcion2), Toast.LENGTH_LONG).show()
-                `in` = Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=$address"))
+                intent = Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=$address"))
                 //in = new Intent(Intent.ACTION_VIEW, Uri.parse("geo:0,0?q=" + textToSearch));
-                startActivity(`in`)
+                startActivity(intent)
             }
             R.id.button3 -> {
                 Toast.makeText(this, getString(R.string.opcion3), Toast.LENGTH_LONG).show()
-                `in` = Intent(Intent.ACTION_VIEW, Uri.parse(url))
-                startActivity(`in`)
+                intent = Intent(Intent.ACTION_VIEW, Uri.parse(url))
+                startActivity(intent)
             }
             R.id.button4 -> {
                 Toast.makeText(this, getString(R.string.opcion4), Toast.LENGTH_LONG).show()
                 //in = new Intent(Intent.ACTION_VIEW, Uri.parse("http://www.google.com/search?q=" + textToSearch));
-                `in` = Intent(Intent.ACTION_WEB_SEARCH)
-                `in`.putExtra(SearchManager.QUERY, textToSearch)
-                startActivity(`in`)
+                intent = Intent(Intent.ACTION_WEB_SEARCH)
+                intent.putExtra(SearchManager.QUERY, textToSearch)
+                startActivity(intent)
             }
             R.id.button5 -> callPhone()
             R.id.button6 -> accessContacts()
+            R.id.button7 -> dialPhone()
+            R.id.button8 -> sendSMS()
+            R.id.button9 -> sendEmail()
         }
     }
 
@@ -126,16 +135,15 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     private fun accessContactsAction() {
-        val `in`: Intent
+        val intent: Intent
         Toast.makeText(this, getString(R.string.opcion6), Toast.LENGTH_LONG).show()
-        `in` = Intent(Intent.ACTION_VIEW)
-        `in`.data = ContactsContract.Contacts.CONTENT_URI
-        startActivity(`in`)
+        intent = Intent(Intent.ACTION_VIEW)
+        intent.data = ContactsContract.Contacts.CONTENT_URI
+        startActivity(intent)
     }
 
 
     private fun callPhone() {
-        var `in`: Intent
         if (Build.VERSION.SDK_INT >= 23) {
             if (ckeckPermissionsCallPhone()) {
                 callPhoneAction()
@@ -148,10 +156,28 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     private fun callPhoneAction() {
-        val intent: Intent
         Toast.makeText(this, getString(R.string.opcion5), Toast.LENGTH_LONG).show()
         intent = Intent(Intent.ACTION_CALL, Uri.parse("tel:" + getText(R.string.telef)))
         startActivity(intent)
+    }
+
+    private fun dialPhone(){
+        Toast.makeText(this, getString(R.string.opcion8), Toast.LENGTH_LONG).show()
+        intent = Intent(Intent.ACTION_DIAL, Uri.parse("tel:" + getText(R.string.telef)))
+        startActivity(intent)
+    }
+
+    private fun sendSMS(){
+        Toast.makeText(this, getString(R.string.opcion9), Toast.LENGTH_LONG).show()
+        intent = Intent(Intent.ACTION_SEND)
+        intent.data = Uri.parse("sms:" + getText(R.string.telef))
+        intent.type = "text/plain"
+        intent.putExtra(Intent.EXTRA_TEXT, "Hola, que tal?")
+        startActivity(intent)
+    }
+
+    private fun sendEmail(){
+        Toast.makeText(this, getString(R.string.opcion9), Toast.LENGTH_LONG).show()
     }
 
 
