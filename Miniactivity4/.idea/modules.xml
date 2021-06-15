@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ManejoServicio-master.iml" filepath="$PROJECT_DIR$/ManejoServicio-master.iml" group="ManejoServicio-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ManejoServicio-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Miniactivity4.iml" filepath="$PROJECT_DIR$/.idea/modules/Miniactivity4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Miniactivity4.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Miniactivity4.app.iml" />
     </modules>
   </component>
 </project>
