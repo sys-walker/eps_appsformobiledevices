@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">ManejoServicios</string>
+    <string name="iniserv">Servicio Iniciado</string>
+    <string name="creaserv">Servicio Creado</string>
+    <string name="finaserv">Servicio Finalizado</string>
+    <string name="chooseMusic">Seleccionando Cancion</string>
+    <string name="chooseNoise">Seleccionando Sonido</string>
+    <string name="BroadcastNoise">Intent recibido ElReceptor - Inicio reproducción train.mp3</string>
+    <string name="BroadcastMusic">Intent recibido ElReceptor - Inicio reproducción bob_marley_cybl.mp3</string>
+    <string name="BroadcastStop">Intent recibido ElReceptor - Detencion reproduccion</string>
+</resources>

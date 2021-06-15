@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/88f17610a9f6f87ebed0f9da47739695/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ff2f2a427b233a97e732d25a23cd65b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/58c941b24eae34c45b266d4fb89025eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1fe180f1eb18a78e73a608d20528b7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/53aeb7fa19900e85661e60c5d37345f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/aa4d07e2bb9a6608f8d46cbacf91f863/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9eeb62bd3081658869c61d01decbf1d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/99b7ca91b803960c7f44705c7f750547/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c8131e4cdd22f4ec1bc79d63d4e5ea6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a44e86eae68c16669164aa3fcefe131b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd639e2cd74ed4057ec48458605867c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cfe44e44c60ddd79520bfd5c162db00a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8fef95ff6abb726f792a6c385b2b063c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c25c6ea900751282b9bdbef23cc60f22/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e537bff6d57e867936dd474f9d56da9/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ff420c15298a25ae5cdda5f1df70aee7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/43808594643608e15acc3de17b46ef8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e40e89c6f17e02211e8db837096ae7a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/41fbf7a009b187b0aba2e6ef19a0bc1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7d37027c80349bbc52e59fa545c3c625/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/50721a85268415b2d704a2af8bc3e7e4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/61dbe4264bcbf2f684676d527ff3eae5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/98e8baed022430cc62dd55e0ebf116ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cde7dbb995ee1da6c565163d767808eb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9fc949bf8ba551786f6303253c767323/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:7:5-69
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:7:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:10:22-77
+application
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:13:5-35:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c25c6ea900751282b9bdbef23cc60f22/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c25c6ea900751282b9bdbef23cc60f22/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e537bff6d57e867936dd474f9d56da9/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e537bff6d57e867936dd474f9d56da9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c25c6ea900751282b9bdbef23cc60f22/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.surtidointentimpl.MainActivity
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:18:9-33:20
+	android:label
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:19:13-70
+intent-filter#action:name:android.intent.action.CALL+action:name:android.intent.action.DIAL+action:name:android.intent.action.MAIN+action:name:android.intent.action.SEND+action:name:android.intent.action.SENDTO+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+data:scheme:mailto
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:21:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:22:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:23:25-66
+action#android.intent.action.CALL
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:24:25-66
+action#android.intent.action.SEND
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:25:25-66
+action#android.intent.action.DIAL
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:26:25-66
+action#android.intent.action.SENDTO
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:27:17-71
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:27:25-68
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:28:27-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:29:27-73
+data
+ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:30:17-49
+	android:scheme
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml:30:23-46
+uses-sdk
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/88f17610a9f6f87ebed0f9da47739695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/88f17610a9f6f87ebed0f9da47739695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ff2f2a427b233a97e732d25a23cd65b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/ff2f2a427b233a97e732d25a23cd65b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/58c941b24eae34c45b266d4fb89025eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/58c941b24eae34c45b266d4fb89025eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1fe180f1eb18a78e73a608d20528b7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c1fe180f1eb18a78e73a608d20528b7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/53aeb7fa19900e85661e60c5d37345f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/53aeb7fa19900e85661e60c5d37345f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/aa4d07e2bb9a6608f8d46cbacf91f863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/aa4d07e2bb9a6608f8d46cbacf91f863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9eeb62bd3081658869c61d01decbf1d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/9eeb62bd3081658869c61d01decbf1d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/99b7ca91b803960c7f44705c7f750547/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/99b7ca91b803960c7f44705c7f750547/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c8131e4cdd22f4ec1bc79d63d4e5ea6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/c8131e4cdd22f4ec1bc79d63d4e5ea6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a44e86eae68c16669164aa3fcefe131b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a44e86eae68c16669164aa3fcefe131b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd639e2cd74ed4057ec48458605867c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cd639e2cd74ed4057ec48458605867c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cfe44e44c60ddd79520bfd5c162db00a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/cfe44e44c60ddd79520bfd5c162db00a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8fef95ff6abb726f792a6c385b2b063c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8fef95ff6abb726f792a6c385b2b063c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c25c6ea900751282b9bdbef23cc60f22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c25c6ea900751282b9bdbef23cc60f22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e537bff6d57e867936dd474f9d56da9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/0e537bff6d57e867936dd474f9d56da9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ff420c15298a25ae5cdda5f1df70aee7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ff420c15298a25ae5cdda5f1df70aee7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/43808594643608e15acc3de17b46ef8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/43808594643608e15acc3de17b46ef8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e40e89c6f17e02211e8db837096ae7a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e40e89c6f17e02211e8db837096ae7a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/41fbf7a009b187b0aba2e6ef19a0bc1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/41fbf7a009b187b0aba2e6ef19a0bc1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7d37027c80349bbc52e59fa545c3c625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7d37027c80349bbc52e59fa545c3c625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/50721a85268415b2d704a2af8bc3e7e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/50721a85268415b2d704a2af8bc3e7e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/61dbe4264bcbf2f684676d527ff3eae5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/61dbe4264bcbf2f684676d527ff3eae5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/98e8baed022430cc62dd55e0ebf116ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/98e8baed022430cc62dd55e0ebf116ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cde7dbb995ee1da6c565163d767808eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/cde7dbb995ee1da6c565163d767808eb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9fc949bf8ba551786f6303253c767323/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Arnaunadal98/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9fc949bf8ba551786f6303253c767323/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Arnaunadal98/Documents/AplicacionsPerADispositiusMobils/MiniActivity_3/MiniActivitat_3/app/src/main/AndroidManifest.xml
